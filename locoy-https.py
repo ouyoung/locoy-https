@@ -47,7 +47,7 @@ def start_server(port):
     print("[ https代理请求脚本 ]")
     print("请求前缀：{}{}{}".format("http://127.0.0.1:", port, "?url="))
     print("访问示例：{}{}{}".format("http://127.0.0.1:", port, "?url=https://httpbin.org/ip"))
-    doc = ""  # 教程地址
+    doc = "https://zhuanlan.zhihu.com/p/258993943"  # 教程地址
     print("火车头免费规则QQ群：836864369")
     print("使用教程：{}".format(doc))
     print("-------------------------------------------------------------")
